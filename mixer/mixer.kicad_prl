@@ -3,39 +3,8 @@
     "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [
-      "Default"
-    ],
-    "hidden_nets": [
-      "",
-      "Net-(U1A--)",
-      "Net-(R1-Pad1)",
-      "Net-(R2-Pad1)",
-      "Net-(R3-Pad1)",
-      "Net-(U1B--)",
-      "Net-(R4-Pad1)",
-      "unconnected-(J2-Pad2)",
-      "Net-(J3-Pad3)",
-      "unconnected-(J3-Pad2)",
-      "unconnected-(J4-Pad2)",
-      "unconnected-(J5-Pad2)",
-      "Net-(J5-Pad3)",
-      "unconnected-(J6-Pad2)",
-      "unconnected-(J7-Pad2)",
-      "Net-(J7-Pad3)",
-      "Net-(J8-Pad3)",
-      "unconnected-(J8-Pad2)",
-      "Net-(R6-Pad2)",
-      "Net-(SW1-A)",
-      "Net-(SW2-A)",
-      "Net-(SW3-A)",
-      "Net-(SW1-B)",
-      "Net-(SW2-B)",
-      "Net-(SW3-B)",
-      "Net-(R9-Pad2)",
-      "Net-(R8-Pad2)",
-      "Net-(R10-Pad2)"
-    ],
+    "hidden_netclasses": [],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
@@ -44,20 +13,20 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.6200000047683716
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
+      "otherItems": false,
       "pads": true,
-      "text": true,
+      "text": false,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -81,8 +50,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55555555_5ffdffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffffffff_ffffffff_fffffff5_5ff5ff5f",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
