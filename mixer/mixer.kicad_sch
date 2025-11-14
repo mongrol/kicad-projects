@@ -3682,7 +3682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTA3043_Single_Slide"
+		(property "Footprint" "mong:Potentiometer_Bourns_PTA3043_Single_Slide"
 			(at 95.25 74.93 0)
 			(effects
 				(font
@@ -4385,7 +4385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 121.92 86.36 0)
 			(effects
 				(font
@@ -4498,7 +4498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 62.23 77.47 0)
 			(effects
 				(font
@@ -5433,7 +5433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTA3043_Single_Slide"
+		(property "Footprint" "mong:Potentiometer_Bourns_PTA3043_Single_Slide"
 			(at 196.85 106.68 0)
 			(effects
 				(font
@@ -5571,7 +5571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 262.89 97.79 0)
 			(effects
 				(font
@@ -5684,7 +5684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTA3043_Single_Slide"
+		(property "Footprint" "mong:Potentiometer_Bourns_PTA3043_Single_Slide"
 			(at 95.25 45.72 0)
 			(effects
 				(font
@@ -6056,7 +6056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 62.23 106.68 0)
 			(effects
 				(font
@@ -6503,7 +6503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 121.92 27.94 0)
 			(effects
 				(font
@@ -6748,7 +6748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTA3043_Single_Slide"
+		(property "Footprint" "mong:Potentiometer_Bourns_PTA3043_Single_Slide"
 			(at 95.25 104.14 0)
 			(effects
 				(font
@@ -7379,7 +7379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 60.96 48.26 0)
 			(effects
 				(font
@@ -8051,7 +8051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THONK_PJ398SM-12"
+		(property "Footprint" "mong:Thonkiconn_J398SM_Vertical_CircularHoles"
 			(at 121.92 55.88 0)
 			(effects
 				(font
